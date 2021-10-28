@@ -70,7 +70,7 @@ In this exercise, you'll be taking what you learned about Mongoose and MongoDb t
 * branch - `lesson-4`
 * test command - `yarn test-controllers` or `npm run test-controllers`
 
-So far we have routes and models. Now we need to hook our routes up to our models so we can perfom CRUD on the models based on the routes + verbs. That's exactly what controllers do.
+So far we have routes and models. Now we need to hook our routes up to our models so we can perform CRUD on the models based on the routes + verbs. That's exactly what controllers do.
 
 - [ ] create CRUD resolvers in `utils/crud.js`
 - [ ] create controllers for the Item resources using the base crud resolvers
@@ -84,7 +84,7 @@ In this exercise you'll be locking down our API using JWT's.
 
 - [ ] create a signup controller
 - [ ] create a signin controller
-- [ ] create a protect middlware to lock down API routes
+- [ ] create a protect middleware to lock down API routes
 - [ ] ensure all tests pass by running test command
 
 ### Testing
